@@ -1,16 +1,3 @@
---[[
-    ██████╗██╗   ██╗███████╗ █████╗     ██████╗ ██████╗     ██╗   ██╗██████╗ 
-   ██╔════╝██║   ██║██╔════╝██╔══██╗   ██╔══██╗██╔══██╗    ██║   ██║╚════██╗
-   ██║     ██║   ██║███████╗███████║   ██████╔╝██████╔╝    ██║   ██║ █████╔╝
-   ██║     ██║   ██║╚════██║██╔══██║   ██╔═══╝ ██╔══██╗    ╚██╗ ██╔╝██╔═══╝ 
-   ╚██████╗╚██████╔╝███████║██║  ██║   ██║     ██║  ██║     ╚████╔╝ ███████╗
-    ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝     ╚═╝  ╚═╝      ╚═══╝  ╚══════╝
-    
-                         CUSA OP V2 - ULTIMATE EXPLOIT SCRIPT
-                              Created for CUSA Army
---]]
-
--- Load the BEST UI Library (Hydroxide Style)
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/UI-Libraries/main/VenyxUI.lua"))()
 local Window = Library:CreateWindow("CUSA OP V2", Vector2.new(610, 630), Enum.KeyCode.RightControl)
 
