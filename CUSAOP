@@ -1,5 +1,4 @@
 -- CUSA ARMY - ULTIMATE EXPLOIT SCRIPT
--- FULLY FIXED UI - ALL CATEGORIES VISIBLE
 
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
