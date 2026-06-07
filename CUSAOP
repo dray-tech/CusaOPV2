@@ -6,8 +6,8 @@
    ╚██████╗╚██████╔╝███████║██║  ██║   ██║     ██║  ██║     ╚████╔╝ ███████╗
     ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝     ╚═╝  ╚═╝      ╚═══╝  ╚══════╝
     
-                         CUSA OP V2 - ULTIMATE EXPLOIT HUB
-                              Created for CUSA Prison
+                         CUSA OP V2 - ULTIMATE EXPLOIT SCRIPT
+                              Created for CUSA Army
 --]]
 
 -- Load the BEST UI Library (Hydroxide Style)
@@ -366,7 +366,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 })
 
 print("========================================")
-print("   CUSA OP V2 - ULTIMATE EXPLOIT HUB")
+print("   CUSA OP V2 - ULTIMATE EXPLOIT SCRIPT")
 print("   Press RightControl to open menu")
 print("   Created for CUSA Prison")
 print("========================================")
