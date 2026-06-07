@@ -11,7 +11,7 @@ CurrencySection:AddButton("🟢 GIVE 9 BILLION MONEY", "Instantly gives $9,000,0
     local rs = game:GetService("ReplicatedStorage")
     local giveFunc = rs.Configuration["Core Systems"].Datastore.GiveCurrency
     if giveFunc then
-        giveFunc:FireServer({Type = "Money", Amount = 9e9})
+        giveFunc:FireServer({Type = "Money", Amount = 9000000000})
         game:GetService("StarterGui"):SetCore("SendNotification", {Title = "CUSA OP V2", Text = "💰 +$9,000,000,000 Added!", Duration = 2})
     else
         warn("GiveCurrency not found - game may have updated")
@@ -22,7 +22,7 @@ CurrencySection:AddButton("💎 GIVE 9 BILLION DIAMONDS", "Instantly gives 9,000
     local rs = game:GetService("ReplicatedStorage")
     local giveFunc = rs.Configuration["Core Systems"].Datastore.GiveCurrency
     if giveFunc then
-        giveFunc:FireServer({Type = "Diamond", Amount = 9e9})
+        giveFunc:FireServer({Type = "Diamond", Amount = 9000000000})
         game:GetService("StarterGui"):SetCore("SendNotification", {Title = "CUSA OP V2", Text = "💎 +9,000,000,000 Diamonds Added!", Duration = 2})
     end
 end)
